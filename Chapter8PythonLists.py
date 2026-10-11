@@ -13,4 +13,3 @@ for line in file:
 word_list.sort()
 
 print(word_list)
-
